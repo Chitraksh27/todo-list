@@ -1,0 +1,15 @@
+# .gitignore
+
+# Node modules (both frontend and backend)
+**/node_modules/
+
+# Logs
+**/logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# ENV files
+.env
+.env.local
