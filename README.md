@@ -1,4 +1,4 @@
-# 📝 ToDO List App - MERN Stack
+# 📝 ToDo List App - MERN Stack
 
 A full-stack ToDo List application built with **MongoDB**, **Express**, **React**, and **Node.js**. This app allows users to create, read, update, and delete tasks with real-time UI updates.
 
